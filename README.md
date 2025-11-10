@@ -1,0 +1,1 @@
+This is the repository of a research project on "Joint Intent Classification and Slot Filling for Game Chat Toxicity Detection on CONDA with Model Explainability" part of Pattern Recognition course, one of the elective courses for CS at Brac University. The project paper can be found here: https://drive.google.com/file/d/1qxYDsCazyzSBR2KR_fmlCf2yo1ge3ltq/view?usp=sharing
